@@ -9,6 +9,7 @@ I would like to use this dataset to build some machine learning model to predict
 There are three Jupyter Notebook files:
 1. Heart - Preprocess (visualization and preprocessing of the inputs based on the data type and basic understanding);
 2. Heart - Logistic Regression (Use the logistic regression to predict the results);
+
 2a. Heart - Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, Random Forest (Use the logistic regression, KNN, SVM, Naive Bayes, Decision Tree, Random Forest to predict the results)
 3. Heart - Deep Learning (Use neural network for prediction).
 
